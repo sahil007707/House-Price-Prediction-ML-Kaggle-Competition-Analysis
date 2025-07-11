@@ -82,9 +82,10 @@ Tested multiple regression models:
 
 | Model              | Public LB Score (RMSE) |
 |-------------------|------------------------|
-| XGBoost Regressor | 🥇 _Your best score_   |
-| Lasso Regression  | _your score_           |
-| LightGBM          | _your score_           |
+| 🥇 **XGBoost Regressor** | **0.12780**              |
+| Lasso Regression         | 0.14232                  |
+| LightGBM                 | 0.13294                  |
+
 
 > 🏁 _Final submission placed in top X% on leaderboard_ (update this as applicable)
 
